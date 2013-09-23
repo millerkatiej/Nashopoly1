@@ -36,42 +36,95 @@ nav {
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/purple1.png)
+      background-image: url(../images/purple1.png);
+
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(180deg) scale(1.5,1.5);
+        -moz-transform:rotate(180deg) scale(1.5,1.5);
+
+
+      }
     }
     #top_row2 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/purple2.png)
+      background-image: url(../images/purple2.png);
+
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(180deg) scale(1.5,1.5);
+        -moz-transform:rotate(180deg) scale(1.5,1.5);
+
+
+      }
     }
     #top_row3 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/MTA.png)
+      background-image: url(../images/MTA.png);
+
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(180deg) scale(1.5,1.5);
+        -moz-transform:rotate(180deg) scale(1.5,1.5);
+
+
+      }
     }
     #top_row4 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/babyblue1.png)
+      background-image: url(../images/babyblue1.png);
+
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(180deg) scale(1.5,1.5);
+        -moz-transform:rotate(180deg) scale(1.5,1.5);
+
+
+      }
     }
     #top_row5 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/chance_tile.png)
+      background-image: url(../images/chance_tile.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(180deg) scale(1.5,1.5);
+        -moz-transform:rotate(180deg) scale(1.5,1.5);
+
+
+      }
     }
     #top_row6 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/babyblue2.png)
+      background-image: url(../images/babyblue2.png);
+
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(180deg) scale(1.5,1.5);
+        -moz-transform:rotate(180deg) scale(1.5,1.5);
+
+
+      }
     }
 
     #top_row_right {
@@ -79,21 +132,37 @@ nav {
       height: 224px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/jail2.jpg)
+      background-image: url(../images/jail2.jpg);
     }
     #first_row_left {
       width: 224px;
       height: 112px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/blue1.png)
+      background-image: url(../images/blue1.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(-90deg) scale(1.5,1.5);
+        -moz-transform:rotate(-90deg) scale(1.5,1.5);
+
+
+      }
     }
     #first_row_right {
       width: 224px;
       height: 112px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/pink1.png)
+      background-image: url(../images/pink1.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(90deg) scale(1.5,1.5);
+        -moz-transform:rotate(90deg) scale(1.5,1.5);
+
+
+      }
     }
 
     #second_row_left {
@@ -101,7 +170,15 @@ nav {
       height: 112px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/community_tile2.png)
+      background-image: url(../images/community_tile2.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(-90deg) scale(1.5,1.5);
+        -moz-transform:rotate(-90deg) scale(1.5,1.5);
+
+
+      }
 
     }
     #second_row_right {
@@ -109,14 +186,30 @@ nav {
       height: 112px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/MTA2.png)
+      background-image: url(../images/MTA2.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(90deg) scale(1.5,1.5);
+        -moz-transform:rotate(90deg) scale(1.5,1.5);
+
+
+      }
     }
     #third_row_left {
       width: 224px;
       height: 112px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/blue2.png)
+      background-image: url(../images/blue2.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(-90deg) scale(1.5,1.5);
+        -moz-transform:rotate(-90deg) scale(1.5,1.5);
+
+
+      }
 
     }
     #third_row_right {
@@ -124,14 +217,30 @@ nav {
       height: 112px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/pink3.png)
+      background-image: url(../images/pink3.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(90deg) scale(1.5,1.5);
+        -moz-transform:rotate(90deg) scale(1.5,1.5);
+
+
+      }
     }
     #fourth_row_left {
       width: 224px;
       height: 112px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/green1.png)
+      background-image: url(../images/green1.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(-90deg) scale(1.5,1.5);
+        -moz-transform:rotate(-90deg) scale(1.5,1.5);
+
+
+      }
 
     }
     #fourth_row_right {
@@ -139,14 +248,30 @@ nav {
       height: 112px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/orange1.png)
+      background-image: url(../images/orange1.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(90deg) scale(1.5,1.5);
+        -moz-transform:rotate(90deg) scale(1.5,1.5);
+
+
+      }
     }
     #fifth_row_left {
       width: 224px;
       height: 112px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/green2.png)
+      background-image: url(../images/green2.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(-90deg) scale(1.5,1.5);
+        -moz-transform:rotate(-90deg) scale(1.5,1.5);
+
+
+      }
 
     }
     #fifth_row_right {
@@ -154,14 +279,30 @@ nav {
       height: 112px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/community_tile.png)
+      background-image: url(../images/community_tile.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(90deg) scale(1.5,1.5);
+        -moz-transform:rotate(90deg) scale(1.5,1.5);
+
+
+      }
     }
     #sixth_row_left {
       width: 224px;
       height: 112px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/green3.png)
+      background-image: url(../images/green3.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(-90deg) scale(1.5,1.5);
+        -moz-transform:rotate(-90deg) scale(1.5,1.5);
+
+
+      }
 
     }
     #sixth_row_right {
@@ -169,7 +310,15 @@ nav {
       height: 112px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/orange2.png)
+      background-image: url(../images/orange2.png);
+      transition: .5s;
+
+      &:hover{
+        -webkit-transform:rotate(90deg) scale(1.5,1.5);
+        -moz-transform:rotate(90deg) scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row_left {
       width: 224px;
@@ -183,49 +332,85 @@ nav {
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/yellow1.png)
+      background-image: url(../images/yellow1.png);
+      &:hover{
+        -webkit-transform:scale(1.5,1.5);
+        -moz-transform:scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row2 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/yellow2.png)
+      background-image: url(../images/yellow2.png);
+      &:hover{
+        -webkit-transform:scale(1.5,1.5);
+        -moz-transform:scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row3 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/yellow3.png)
+      background-image: url(../images/yellow3.png);
+      &:hover{
+        -webkit-transform:scale(1.5,1.5);
+        -moz-transform:scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row4 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/chance_tile2.png)
+      background-image: url(../images/chance_tile2.png);
+      &:hover{
+        -webkit-transform:scale(1.5,1.5);
+        -moz-transform:scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row5 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/red1.png)
+      background-image: url(../images/red1.png);
+      &:hover{
+        -webkit-transform:scale(1.5,1.5);
+        -moz-transform:scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row6 {
       width: 112px;
       height: 224px;
       float: left;
       border: 2px solid black;
-      background-image: url(../images/red2.png)
+      background-image: url(../images/red2.png);
+      &:hover{
+        -webkit-transform:scale(1.5,1.5);
+        -moz-transform:scale(1.5,1.5);
+
+
+      }
     }
     #bottom_row_right {
       width: 224px;
       height: 224px;
       float: right;
       border: 2px solid black;
-      background-image: url(../images/freewifi2.jpg)
+      background-image: url(../images/freewifi2.jpg);
     }
   }
 }
