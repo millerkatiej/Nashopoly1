@@ -1,0 +1,186 @@
+nav ul {
+  margin-top: 12px;
+  margin-bottom: 12px; }
+
+#board_full {
+  width: 1152px;
+  height: 1152px;
+  margin: 10px auto;
+  text-align: center;
+  position: relative; }
+  #board_full #main_tile img {
+    position: absolute;
+    left: 228px;
+    top: 228px;
+    width: 696px;
+    height: 696px; }
+  #board_full ul > li .clear {
+    clear: both; }
+  #board_full ul > li #top_row_left {
+    width: 224px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/passgo2.jpg); }
+  #board_full ul > li #top_row1 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/purple1.png); }
+  #board_full ul > li #top_row2 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/purple2.png); }
+  #board_full ul > li #top_row3 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/MTA.png); }
+  #board_full ul > li #top_row4 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/babyblue1.png); }
+  #board_full ul > li #top_row5 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/chance_tile.png); }
+  #board_full ul > li #top_row6 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/babyblue2.png); }
+  #board_full ul > li #top_row_right {
+    width: 224px;
+    height: 224px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/jail2.jpg); }
+  #board_full ul > li #first_row_left {
+    width: 224px;
+    height: 112px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/blue1.png); }
+  #board_full ul > li #first_row_right {
+    width: 224px;
+    height: 112px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/pink1.png); }
+  #board_full ul > li #second_row_left {
+    width: 224px;
+    height: 112px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/community_tile2.png); }
+  #board_full ul > li #second_row_right {
+    width: 224px;
+    height: 112px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/MTA2.png); }
+  #board_full ul > li #third_row_left {
+    width: 224px;
+    height: 112px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/blue2.png); }
+  #board_full ul > li #third_row_right {
+    width: 224px;
+    height: 112px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/pink3.png); }
+  #board_full ul > li #fourth_row_left {
+    width: 224px;
+    height: 112px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/green1.png); }
+  #board_full ul > li #fourth_row_right {
+    width: 224px;
+    height: 112px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/orange1.png); }
+  #board_full ul > li #fifth_row_left {
+    width: 224px;
+    height: 112px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/green2.png); }
+  #board_full ul > li #fifth_row_right {
+    width: 224px;
+    height: 112px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/community_tile.png); }
+  #board_full ul > li #sixth_row_left {
+    width: 224px;
+    height: 112px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/green3.png); }
+  #board_full ul > li #sixth_row_right {
+    width: 224px;
+    height: 112px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/orange2.png); }
+  #board_full ul > li #bottom_row_left {
+    width: 224px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/goto2.jpg); }
+  #board_full ul > li #bottom_row1 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/yellow1.png); }
+  #board_full ul > li #bottom_row2 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/yellow2.png); }
+  #board_full ul > li #bottom_row3 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/yellow3.png); }
+  #board_full ul > li #bottom_row4 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/chance_tile2.png); }
+  #board_full ul > li #bottom_row5 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/red1.png); }
+  #board_full ul > li #bottom_row6 {
+    width: 112px;
+    height: 224px;
+    float: left;
+    border: 2px solid black;
+    background-image: url(../images/red2.png); }
+  #board_full ul > li #bottom_row_right {
+    width: 224px;
+    height: 224px;
+    float: right;
+    border: 2px solid black;
+    background-image: url(../images/freewifi2.jpg); }
