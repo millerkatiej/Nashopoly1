@@ -333,6 +333,7 @@ nav {
       float: left;
       border: 2px solid black;
       background-image: url(../images/yellow1.png);
+      transition: .5s;
       &:hover{
         -webkit-transform:scale(1.5,1.5);
         -moz-transform:scale(1.5,1.5);
@@ -346,6 +347,7 @@ nav {
       float: left;
       border: 2px solid black;
       background-image: url(../images/yellow2.png);
+      transition: .5s;
       &:hover{
         -webkit-transform:scale(1.5,1.5);
         -moz-transform:scale(1.5,1.5);
@@ -359,6 +361,7 @@ nav {
       float: left;
       border: 2px solid black;
       background-image: url(../images/yellow3.png);
+      transition: .5s;
       &:hover{
         -webkit-transform:scale(1.5,1.5);
         -moz-transform:scale(1.5,1.5);
@@ -372,6 +375,7 @@ nav {
       float: left;
       border: 2px solid black;
       background-image: url(../images/chance_tile2.png);
+      transition: .5s;
       &:hover{
         -webkit-transform:scale(1.5,1.5);
         -moz-transform:scale(1.5,1.5);
@@ -385,6 +389,7 @@ nav {
       float: left;
       border: 2px solid black;
       background-image: url(../images/red1.png);
+      transition: .5s;
       &:hover{
         -webkit-transform:scale(1.5,1.5);
         -moz-transform:scale(1.5,1.5);
@@ -398,6 +403,7 @@ nav {
       float: left;
       border: 2px solid black;
       background-image: url(../images/red2.png);
+      transition: .5s;
       &:hover{
         -webkit-transform:scale(1.5,1.5);
         -moz-transform:scale(1.5,1.5);
