@@ -18,7 +18,7 @@ h1 {
   border: 4px solid black;
   text-align: center;
   float: left;
-  margin: 26px;
+  margin: 40px 26px;
   h2 {
     width: 376px;
     border: 2px solid black;
@@ -32,20 +32,14 @@ h1 {
     border: 2px solid black;
   }
   &:hover {
-    transform:translateZ(170px);
-    -ms-transform:translateZ(170px);
-    -webkit-transform:translateZ(170px);
+     -webkit-transform:scale(1.2,1.2);
+     -moz-transform:scale(1.2,1.2);
   }
 
 }
 
   #ship {
     margin: 10px 266px;
-  }
-#ship:hover {
-    transform:translateZ(170px);
-    -ms-transform:translateZ(170px);
-    -webkit-transform:translateZ(170px);
   }
 
 .clear {
